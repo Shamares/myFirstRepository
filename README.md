@@ -1,3 +1,3 @@
 # myFirstRepository
-for testing and learning Git and GitHub purposes <br>
+for testing and learning Git, Python and Django <br>
 test edit
